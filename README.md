@@ -1,4 +1,4 @@
 RadiantGeek
 ===========
 
-Radiant Geek Website (brief discription)
+Radiant Geek Website (brief Introduction)
